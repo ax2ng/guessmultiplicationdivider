@@ -112,5 +112,3 @@ while (choice != 4)
     Choice();
     choice = Convert.ToInt32(Console.ReadLine());
 }
-
-}       
